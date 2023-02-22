@@ -5,9 +5,10 @@
 ___
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gianlucacioccigdev&label=Profile%20views&color=0e75b6&style=flat" alt="gianlucacioccigdev" /> </p>
 
 - 🔭 I’m currently studying Computer Engineering
+
+- 🧐 I’m currently studying Unity Game Engine
 
 - 📫 How to reach me **g.cioccidev@gmail.com**
 
@@ -19,6 +20,19 @@ ___
 <a href="https://instagram.com/g__dev__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g__dev__" height="30" width="40" /></a>
 </p>
 
+<!--  
+<h2>Games shared on Github:</h2>
+<details>
+<summary></summary>
+<pre>$ This dropdown contains<br>a code block!</pre>
+</details>
+
+<h2>Other projects and games:</h2>
+<details>
+<summary></summary>
+<pre>$ This dropdown contains<br>a code block!</pre>
+</details>
+-->
 
 <div align="left">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GianlucaCiocciGDev&show_icons=true&count_private=true&hide_border=true&title_color=ff00ea&icon_color=ff00ea&text_color=c9d1d9&bg_color=0d1117" alt="GianlucaCiocciGDev github stats" />
