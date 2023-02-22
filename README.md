@@ -5,6 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianlucacioccigdev&label=Profile%20views&color=0e75b6&style=flat" alt="gianlucacioccigdev" /> </p>
 
+- 🔭 I’m currently studying Computer Engineering
+
 - 📫 How to reach me **g.cioccidev@gmail.com**
 
 - ⚡ Fun fact **I am funny 😁**
