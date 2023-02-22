@@ -1,6 +1,6 @@
 ![logo](https://github.com/GianlucaCiocciGDev/GianlucaCiocciGDev/blob/main/GameRoom.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=ff91a4&center=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Gianluca+Ciocci;A+Passionate+Software+Developer+;A+Passionate+Game+Programmer+;From+Italy+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=ff00ea&center=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Gianluca+Ciocci;A+Passionate+Software+Developer+;A+Passionate+Game+Programmer+;From+Italy+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <h1></h1>
 
@@ -21,8 +21,8 @@
 
 
 <div align="left">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GianlucaCiocciGDev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="GianlucaCiocciGDev github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianlucaCiocciGDev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a48&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GianlucaCiocciGDev&show_icons=true&count_private=true&hide_border=true&title_color=ff00ea&icon_color=ff00ea&text_color=c9d1d9&bg_color=0d1117" alt="GianlucaCiocciGDev github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianlucaCiocciGDev&layout=compact&hide_border=true&title_color=ff00ea&text_color=ff00ea8&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GianlucaCiocciGDev&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
