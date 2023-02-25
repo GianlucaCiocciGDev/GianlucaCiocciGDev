@@ -10,6 +10,8 @@ ___
 
 - 🧐 I’m currently studying Unity Game Engine
 
+- 🚧 I am currently working as a .Net Full Stack Developer
+
 - 📫 How to reach me **g.cioccidev@gmail.com**
 
 - ⚡ Fun fact **I am funny 😁**
