@@ -25,8 +25,12 @@ ___
 
 <h2>Games shared on Github:</h2>
 <details>
-<summary></summary>
-<pre>$ This dropdown contains<br>a code block!</pre>
+<summary>RED DEAD REDEMPTION RECREATION</summary>
+<pre>
+Avalaible in REPOSITORY SECTION 
+<br>
+
+</pre>
 </details>
 
 <h2>Other projects and games:</h2>
