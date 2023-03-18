@@ -33,17 +33,21 @@ AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/R
 </video>
 </pre>
 </details>
- 
-
-
-
-
 <details>
 <summary><b>God Of War Prototype<b></summary>
 <pre>
 AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/GOD-Recreation">click this to see <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji></a>
  <br>
 <video src="https://user-images.githubusercontent.com/75625646/226126338-70da11da-3bc9-4a4d-a6d9-97a2d07f762e.mp4" data-canonical-src="https://user-images.githubusercontent.com/75625646/226126338-70da11da-3bc9-4a4d-a6d9-97a2d07f762e.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+</video>
+</pre>
+</details>
+<details>
+<summary><b>Survival & Strategy Prototype<b></summary>
+<pre>
+AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/SurvivalStrategy-Recreation">click this to see <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji></a>
+ <br>
+<video src="https://user-images.githubusercontent.com/75625646/226143212-517745a7-f62e-4838-a2c6-88250c3cc720.mp4" data-canonical-src="https://user-images.githubusercontent.com/75625646/226143212-517745a7-f62e-4838-a2c6-88250c3cc720.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
 </pre>
 </details>
@@ -55,6 +59,10 @@ AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/G
 <summary></summary>
 <pre>$ This dropdown contains<br>a code block!</pre>
 </details>
+
+
+
+
 
 
 <div align="left">
