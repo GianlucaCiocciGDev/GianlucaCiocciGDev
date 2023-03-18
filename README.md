@@ -29,11 +29,15 @@ ___
 <pre>
 AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/RDR-Recreation">click this to see <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji></a>
  <br>
-<video src="https://user-images.githubusercontent.com/75625646/226121882-b88a745d-5966-4b89-80a1-7cc8260f22c4.mp4" data-canonical-src="https://user-images.githubusercontent.com/75625646/226121882-b88a745d-5966-4b89-80a1-7cc8260f22c4.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+<video src="https://user-images.githubusercontent.com/75625646/226129069-ada43e70-58b0-4088-bc55-175d74dd5ac0.mp4" data-canonical-src="https://user-images.githubusercontent.com/75625646/226129069-ada43e70-58b0-4088-bc55-175d74dd5ac0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
 </pre>
 </details>
  
+
+
+
+
 <details>
 <summary><b>God Of War Prototype<b></summary>
 <pre>
