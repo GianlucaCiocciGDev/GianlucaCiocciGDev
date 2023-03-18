@@ -27,9 +27,10 @@ ___
 <details>
 <summary>RED DEAD REDEMPTION RECREATION</summary>
 <pre>
-Avalaible in REPOSITORY SECTION 
-<br>
-
+  AVAIABLE IN REPOSITORY SECTION 
+  <br>
+<video src="https://user-images.githubusercontent.com/75625646/226119302-2e26678c-81fd-4a20-9290-6d713bc4a641.mp4" data-canonical-src="https://user-images.githubusercontent.com/75625646/226119302-2e26678c-81fd-4a20-9290-6d713bc4a641.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+</video>
 </pre>
 </details>
 
