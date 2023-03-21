@@ -53,12 +53,32 @@ AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/S
 </details>
 <br>
 
+<h2>Other Games:</h2>
+<details>
+<summary><b>Stealth Mobile Mini Game<b></summary>
+<pre>
+MINI GAME BASED ON STEALTH GAMEPLAY FOR MOBILE
+<br>
+<video src="https://user-images.githubusercontent.com/75625646/226750880-b16853a8-6736-4c4a-8bac-46fa9ce4bfd5.mp4" data-canonical-src="https://user-images.githubusercontent.com/75625646/226750880-b16853a8-6736-4c4a-8bac-46fa9ce4bfd5.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+</video>
+</pre>
+</details>
+ 
+ 
 
-<h2>Other projects and games:</h2>
+
+
+
+ 
+<h2>Other projects:</h2>
 <details>
 <summary></summary>
 <pre>$ This dropdown contains<br>a code block!</pre>
 </details>
+
+
+
+
 
 
 
