@@ -27,7 +27,7 @@ ___
 <details>
 <summary><b>Third Person Shooter Prototype<b></summary>
 <pre>
-AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/RDR-Recreation">click this to see <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji></a>
+AVAIABLE IN REPOSITORY SECTION: <a href="https://github.com/GianlucaCiocciGDev/ThirdPersonShooter-Recreation">click this to see <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji></a>
  <br>
 <video src="https://user-images.githubusercontent.com/75625646/226985030-85082cf1-222d-48f1-aa84-93e5cb00a236.mp4" data-canonical-src="https://user-images.githubusercontent.com/75625646/226985030-85082cf1-222d-48f1-aa84-93e5cb00a236.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
