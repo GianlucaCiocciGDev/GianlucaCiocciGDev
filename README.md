@@ -14,13 +14,15 @@ ___
 
 - 📫 How to reach me **g.cioccidev@gmail.com**
 
-- ⚡ Fun fact **I am funny 😁**
+- ⚡ My <b>ITCH.IO</b> Page <a href="https://gianlucagdev.itch.io/">gianlucagdev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://gianlucagdev.itch.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/GameEngines/unity.svg" alt="gianlucagdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gianluca-ciocci-167167198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianluca ciocci" height="30" width="40" /></a>
 <a href="https://instagram.com/g__dev__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g__dev__" height="30" width="40" /></a>
 </p>
+
 
 
 <h2>Games shared on Github:</h2>
