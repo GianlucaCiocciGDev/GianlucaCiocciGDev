@@ -80,14 +80,6 @@ MINI GAME BASED ON STEALTH GAMEPLAY FOR MOBILE
 
 
 
- 
-<h2>Other projects:</h2>
-<details>
-<summary></summary>
-<pre>$ This dropdown contains<br>a code block!</pre>
-</details>
-
-
 
 
 
